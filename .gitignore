@@ -1,0 +1,15 @@
+# secrets and environment
+.env
+.venv/
+
+# python and editor files
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+
+# the PDFs are large, keep them out of git
+pdfs/*.pdf
+
+# chunks.json and vectors.npy are NOT ignored on purpose,
+# the deployed app needs them

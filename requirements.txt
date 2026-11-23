@@ -1,0 +1,7 @@
+google-genai
+scikit-learn
+numpy
+pandas
+streamlit
+python-dotenv
+fastembed
